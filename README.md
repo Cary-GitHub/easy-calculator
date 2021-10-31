@@ -4,3 +4,5 @@ Holle.I'm Cary.
 I'm a middle school student form China.
 'easy calcultor' is my first works,you are welcome to use it.
 If you want to contacting me,a hide code in this build can help you.
+language：python
+Encapsulation tools：auto-py-to-exe
